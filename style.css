@@ -1,0 +1,17 @@
+
+body {background-color:  greenyellow; background-image: url('img/benben.jpg'); background-repeat: no-repeat; background-size: 100%100%}
+mark {color: red; background-color: grey;}
+p {font-family: initial;}
+address {text-align: center;}
+h2 {color: purple;}
+h1 {color: cyan}
+table, th, td {  
+	margin-right: 200px; margin-left: 200px; border: 2px solid black; padding: 10px 20px; text-align: left; border-collapse: collapse; 
+}
+th, td{
+	background-color: darkred;
+	color: lightgray;
+	width: 300px; height: 200px;
+
+	font-size: 50px;
+}
