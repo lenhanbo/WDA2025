@@ -15,3 +15,7 @@ th, td{
 
 	font-size: 50px;
 }
+
+td:hover {
+	background-color: indianred;	
+}
